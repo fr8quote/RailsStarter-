@@ -7,5 +7,5 @@ ActionMailer::Base.smtp_settings = {
 	:password               =>  'Kat1leidy',
 	:enable_starttls_auto   => true 
 
-	 }
+}
 
